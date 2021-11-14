@@ -1,0 +1,14 @@
+/*universal selector (*) - styles added here will affect all elements.*/
+* {
+	/*Roboto is now our default font for for all our elements.*/
+	font-family: "Roboto", sans-serif;
+}
+
+h1, h2 {
+	font-family: 'Montserrat', sans-serif;
+}
+
+img {
+	height: 250px;
+	width: auto;
+}
